@@ -1,0 +1,50 @@
+ing in aND HIT EnterPictureInPictureEvent EnterPictureInPictureEvent
+VM161:1 Uncaught SyntaxError: Unexpected identifier
+console.log('hello world')
+VM253:1 hello world
+undefined
+1+1
+2
+typeof('spider')
+"string"
+typeof(1+1)
+"number"
+typeof({})
+"object"
+typeof([])
+"object"
+typeof(true)
+"boolean"
+var petname = 'katty'
+undefined
+petname
+"katty"
+petname = roger
+VM950:1 Uncaught ReferenceError: roger is not defined
+    at <anonymous>:1:1
+(anonymous) @ VM950:1
+pertname = 'roger'
+"roger"
+petname = pertname
+"roger"
+petname
+"roger"
+petname == pertname
+true
+petname != pertname
+false
+1<2
+true
+2<1
+false
+1<=2
+true
+3>=4
+false
+true && true
+true
+true && false
+false
+true ||  false
+true
+// this is a comment
