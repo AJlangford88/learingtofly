@@ -204,4 +204,3 @@ function shouldWearACoat2(isRaining, isCold) {
 			? true
 			: false;
 };
-
